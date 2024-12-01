@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://theweak1.github.io/theweak1blog/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -56,7 +56,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "My Blog List"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -74,16 +74,16 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "TheWeak1"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          name = "About Me"
+          url = "https://theweak1.github.io/theweak1blog"
+        # [[languages.en.menu.main]]
+          # identifier = "showcase"
+          # name = "Showcase"
+          # url = "/showcase"
 
