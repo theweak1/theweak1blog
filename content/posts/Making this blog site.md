@@ -1,6 +1,6 @@
 ---
 title: Making this blog site
-date: 2024-11-13
+date: 2024-11-30
 lastmod: 
 draft: false
 tags:
