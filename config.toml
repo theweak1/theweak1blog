@@ -74,14 +74,14 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "TheWeak1"
+        logoText = "TheWeak1 Blogs"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About Me"
-          url = "https://theweak1.github.io/theweak1blog"
+          url = "https://theweak1.github.io/"
         # [[languages.en.menu.main]]
           # identifier = "showcase"
           # name = "Showcase"
