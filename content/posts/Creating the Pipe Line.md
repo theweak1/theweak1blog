@@ -11,4 +11,4 @@ Testing whats going on here
 
 testing with an image
 
-![Image Description](/images/image-test.png)
+![Image Test](/attachments/image-test.png)
